@@ -67,7 +67,7 @@
       </ul>
     </li>
     <li><a href="#usage">Použití</a></li>
-    <li><a href="#roadmapa">Roadmapa</a></li>
+    <li><a href="#plán-verzí">Roadmapa</a></li>
     <li><a href="#contributing">Příspění</a></li>
     <li><a href="#license">Licence</a></li>
     <li><a href="#contact">Kontakt</a></li>
@@ -149,7 +149,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmapa
+## Plán verzí
 
 - [ ] Feature 1
 - [ ] Feature 2
