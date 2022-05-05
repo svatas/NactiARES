@@ -81,6 +81,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## O projektu
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/svatas/NactiARES)
 
 Tento projekt vznikl na pomoc všem uživatelům, kteří potřebují stahovat informace o subjektech z veřejných rejstříků jako jsou [ARES](https://wwwinfo.mfcr.cz/ares/ares_es.html.cz) a [ESM](https://esm.justice.cz/) (Evidence skutečných majitelů). Potřebují získat informace o subjektech jako je sídlo a skutečný vlastník a to na základě IČ.
 
@@ -172,6 +173,8 @@ Don't forget to give the project a star! Thanks again!
 ## Kontakty
 
 svatopluk.vit@ruzne.info
+
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
 https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
