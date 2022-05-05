@@ -62,14 +62,16 @@
     <li>
       <a href="#začínáme">Začínáme</a>
       <ul>
-        <li><a href="#požadavky">Požadavky</a></li>
+        <li><a href="#předpoklady">Předpoklady</a></li>
         <li><a href="#instalace">Instalace</a></li>
       </ul>
     </li>
     <li><a href="#použití">Použití</a></li>
     <li><a href="#plán-verzí">Plán verzí</a></li>
+<!--
     <li><a href="#contributing">Příspění</a></li>
     <li><a href="#licence">Licence</a></li>
+ -->
     <li><a href="#kontakt">Kontakt</a></li>
     <li><a href="#poděkování">Poděkování</a></li>
   </ol>
@@ -125,7 +127,7 @@ Pro spuštění daného kódu musíte mít v počítači nainstalovaný kancelá
 
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP
 ## Plán verzí
 
 - [ ] Feature 1
@@ -136,10 +138,10 @@ Pro spuštění daného kódu musíte mít v počítači nainstalovaný kancelá
 See the [open issues](https://github.com/svatas/NactiARES/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">nahoru</a>)</p>
+ -->
 
 
-
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -155,7 +157,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">nahoru</a>)</p>
 
-
+ -->
 
 <!-- LICENSE -->
 ## Licence
