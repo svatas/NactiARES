@@ -173,6 +173,8 @@ Don't forget to give the project a star! Thanks again!
 
 svatopluk.vit@ruzne.info
 
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
 <p align="right">(<a href="#top">nahoru</a>)</p>
 
 
