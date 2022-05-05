@@ -60,18 +60,18 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Začínáme</a>
+      <a href="#začínáme">Začínáme</a>
       <ul>
-        <li><a href="#prerequisites">Požadavky</a></li>
-        <li><a href="#installation">Instalace</a></li>
+        <li><a href="#požadavky">Požadavky</a></li>
+        <li><a href="#instalace">Instalace</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Použití</a></li>
-    <li><a href="#plán-verzí">Plán verzía</a></li>
+    <li><a href="#použití">Použití</a></li>
+    <li><a href="#plán-verzí">Plán verzí</a></li>
     <li><a href="#contributing">Příspění</a></li>
-    <li><a href="#license">Licence</a></li>
-    <li><a href="#contact">Kontakt</a></li>
-    <li><a href="#acknowledgments">Poděkování</a></li>
+    <li><a href="#licence">Licence</a></li>
+    <li><a href="#kontakt">Kontakt</a></li>
+    <li><a href="#poděkování">Poděkování</a></li>
   </ol>
 </details>
 
@@ -84,61 +84,44 @@ Tento projekt vznikl na pomoc všem uživatelům, kteří potřebují stahovat i
 
 Tohle samo o sobě není problém, větší komplikace nastávají, pokud těch subjektů je více např. několik stovek.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 ### Napsáno ve
 
 * [VBA](https://support.microsoft.com/cs-cz/office/z%C3%ADsk%C3%A1n%C3%AD-n%C3%A1pov%C4%9Bdy-k-pou%C5%BE%C3%ADv%C3%A1n%C3%AD-programu-visual-basic-editor-61404b99-84af-4aa3-b1ca-465bc4f45432)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Začínáme
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Abyste mohli rychle stahovat potřebné informace, musíte provést několik jednoduchých kroků.
 
-### Prerequisites
+### Předpoklady
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Pro spuštění daného kódu musíte mít v počítači nainstalovaný kancelářský balík Microsoft Office  ve verzi 2010 a vyšší (včetně Office 365).
 
-### Installation
+### Instalace
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/svatas/NactiARES.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Stáhněte si MS Excel soubor z [odkazu](https://github.com/svatas/NactiARES/releases)
+2. Otevřete soubor v aplikaci Microsoft Excel
+3. Při dotazu, zda chcete otevřít soubor s makry, potvrďte, že ano. Jinak nebude makro v tabulce fungovat.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Použití
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Zkopírujte všechna IČ subjektů, které chcete vyhledat, do listu DATA do prvního sloupce
+2. Klikněte na tlačítko *Načti rejstříky*
+3. Po úspěšném dohedání všech subjektů naskočí okno s potvrzením, že operace skončila
+4. Pokud není daný subjekt nalezen, objeví se v seznamu za číslem text *NENALEZENO*, stejně tak, pokud neexistují zapsaní skuteční majitelé
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 
 
@@ -152,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/svatas/NactiARES/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 
 
@@ -170,38 +153,35 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 
 
 <!-- LICENSE -->
-## License
+## Licence
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Šířeno pod licencí MIT. Viz soubor `LICENSE.txt`.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## Kontakty
 
-Your Name - [@SvatoplukVit](https://twitter.com/SvatoplukVit) - svatopluk.vit@ruzne.info
+[@SvatoplukVit](https://twitter.com/SvatoplukVit) - svatopluk.vit@ruzne.info
 
-Project Link: [https://github.com/svatas/NactiARES](https://github.com/svatas/NactiARES)
+[https://github.com/svatas/NactiARES](https://github.com/svatas/NactiARES)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Poděkování
 
-* []()
-* []()
-* []()
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nahoru</a>)</p>
 
 
 
