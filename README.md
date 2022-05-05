@@ -67,7 +67,7 @@
       </ul>
     </li>
     <li><a href="#usage">Použití</a></li>
-    <li><a href="#roadmap">Roadmapa</a></li>
+    <li><a href="#roadmapa">Roadmapa</a></li>
     <li><a href="#contributing">Příspění</a></li>
     <li><a href="#license">Licence</a></li>
     <li><a href="#contact">Kontakt</a></li>
