@@ -194,7 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@SvatoplukVit](https://twitter.com/SvatoplukVit) - svatopluk.vit@ruzne.info
 
 Project Link: [https://github.com/svatas/NactiARES](https://github.com/svatas/NactiARES)
 
@@ -226,5 +226,5 @@ Project Link: [https://github.com/svatas/NactiARES](https://github.com/svatas/Na
 [license-shield]: https://img.shields.io/github/license/svatas/NactiARES.svg?style=for-the-badge
 [license-url]: https://github.com/svatas/NactiARES/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/svatopluk-vit
 [product-screenshot]: images/screenshot.png
