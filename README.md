@@ -56,7 +56,7 @@
     <li>
       <a href="#about-the-project">O projektu</a>
       <ul>
-        <li><a href="#built-with">Vytvořeno</a></li>
+        <li><a href="#vytvořeno">Vytvořeno</a></li>
       </ul>
     </li>
     <li>
@@ -149,7 +149,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmapa
 
 - [ ] Feature 1
 - [ ] Feature 2
