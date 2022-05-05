@@ -162,7 +162,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## Licence
 
-Šířeno pod licencí MIT. Viz soubor `LICENSE.txt`.
+Šířeno pod licencí MIT. Viz soubor [LICENSE](https://github.com/svatas/NactiARES/blob/main/LICENSE)
 
 <p align="right">(<a href="#top">nahoru</a>)</p>
 
