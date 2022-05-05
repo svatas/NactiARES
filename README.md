@@ -38,14 +38,12 @@
   <p align="center">
     NačtiARES je projekt, který umožní stažení informací z veřejně dostupných rejstříků ARES a ESM a jejich uložení do MS Excle tabulky na stisk tlačítka.
     <br />
-    <a href="https://github.com/svatas/NactiARES"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/svatas/NactiARES"><strong>Podívejte se do dokumentace »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/svatas/NactiARES">View Demo</a>
+    <a href="https://github.com/svatas/NactiARES/issues">Nahlásit chybu</a>
     ·
-    <a href="https://github.com/svatas/NactiARES/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/svatas/NactiARES/issues">Request Feature</a>
+    <a href="https://github.com/svatas/NactiARES/issues">Poptat funkci</a>
   </p>
 </div>
 
@@ -53,34 +51,34 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Obsah</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">O projektu</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Vytvořeno</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Začínáme</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Požadavky</a></li>
+        <li><a href="#installation">Instalace</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#usage">Použití</a></li>
+    <li><a href="#roadmap">Roadmapa</a></li>
+    <li><a href="#contributing">Příspění</a></li>
+    <li><a href="#license">Licence</a></li>
+    <li><a href="#contact">Kontakt</a></li>
+    <li><a href="#acknowledgments">Poděkování</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## O projektu
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -90,7 +88,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+### Vytvořeno
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
