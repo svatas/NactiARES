@@ -174,7 +174,7 @@ Don't forget to give the project a star! Thanks again!
 svatopluk.vit@ruzne.info
 
 [https://github.com/svatas/NactiARES](https://github.com/svatas/NactiARES)
-[![@SvatoplukVit](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uphwbpdmb6fqtbu1gfrp.png)](https://twitter.com/SvatoplukVit)
+[[@SvatoplukVit](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uphwbpdmb6fqtbu1gfrp.png)](https://twitter.com/SvatoplukVit)
 
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSvatoplukVit">
 
