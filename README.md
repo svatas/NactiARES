@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/svatas/NactiARES">
-    <img src="images/logo.png" alt="Logo" width="102" height="780>
+    <img src="images/logo.png" alt="Logo" width="102" height="78>
   </a>
 
 <h3 align="center">Načti ARES</h3>
