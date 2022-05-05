@@ -54,9 +54,9 @@
   <summary>Obsah</summary>
   <ol>
     <li>
-      <a href="#about-the-project">O projektu</a>
+      <a href="#o-projektu">O projektu</a>
       <ul>
-        <li><a href="#vytvořeno">Vytvořeno</a></li>
+        <li><a href="#napsano-ve">Napsáno ve</a></li>
       </ul>
     </li>
     <li>
@@ -67,7 +67,7 @@
       </ul>
     </li>
     <li><a href="#usage">Použití</a></li>
-    <li><a href="#plán-verzí">Roadmapa</a></li>
+    <li><a href="#plán-verzí">Plán verzía</a></li>
     <li><a href="#contributing">Příspění</a></li>
     <li><a href="#license">Licence</a></li>
     <li><a href="#contact">Kontakt</a></li>
@@ -80,24 +80,18 @@
 <!-- ABOUT THE PROJECT -->
 ## O projektu
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Tento projekt vznikl na pomoc všem uživatelům, kteří potřebují stahovat informace o subjektech z veřejných rejstříků jako jsou [ARES](https://wwwinfo.mfcr.cz/ares/ares_es.html.cz) a [ESM](https://esm.justice.cz/) (Evidence skutečných majitelů). Potřebují získat informace o subjektech jako je sídlo a skutečný vlastník a to na základě IČ.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Tohle samo o sobě není problém, větší komplikace nastávají, pokud těch subjektů je více např. několik stovek.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-### Vytvořeno
+### Napsáno ve
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [VBA](https://support.microsoft.com/cs-cz/office/z%C3%ADsk%C3%A1n%C3%AD-n%C3%A1pov%C4%9Bdy-k-pou%C5%BE%C3%ADv%C3%A1n%C3%AD-programu-visual-basic-editor-61404b99-84af-4aa3-b1ca-465bc4f45432)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
