@@ -36,7 +36,7 @@
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
+    NačtiARES je projekt, který umožní stažení informací z veřejně dostupných rejstříků ARES a ESM a jejich uložení do MS Excle tabulky na stisk tlačítka.
     <br />
     <a href="https://github.com/svatas/NactiARES"><strong>Explore the docs »</strong></a>
     <br />
