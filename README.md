@@ -173,6 +173,8 @@ Don't forget to give the project a star! Thanks again!
 
 [@SvatoplukVit](https://twitter.com/SvatoplukVit) - svatopluk.vit@ruzne.info
 
+[![@SvatoplukVit](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uphwbpdmb6fqtbu1gfrp.png)](https://twitter.com/SvatoplukVit)
+
 [https://github.com/svatas/NactiARES](https://github.com/svatas/NactiARES)
 
 <p align="right">(<a href="#top">nahoru</a>)</p>
