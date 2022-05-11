@@ -101,6 +101,12 @@ Tohle samo o sobě není problém, větší komplikace nastávají, pokud těch 
 <!-- GETTING STARTED -->
 ## Začínáme
 
+#### List DATA
+List obsahuje tlačítko pro vyvolání aktualizace (volá makro Nacti_data) a od buňky A2 musí obsahovat poptávaná IČ. Pokračujte se všemi IČ vyplněnými do sloupce A tj. A3, A4, A5, která potřebujete najít.
+
+#### List WEB
+Do tohoto listu se ukládají stažené informace z Webu rejstříků, které jsou následně procházeny.
+
 Abyste mohli rychle stahovat potřebné informace, musíte provést několik jednoduchých kroků.
 
 ### Předpoklady
@@ -112,6 +118,12 @@ Pro spuštění daného kódu musíte mít v počítači nainstalovaný kancelá
 1. Stáhněte si MS Excel soubor z [odkazu](https://github.com/svatas/NactiARES/releases)
 2. Otevřete soubor v aplikaci Microsoft Excel
 3. Při dotazu, zda chcete otevřít soubor s makry, potvrďte, že ano. Jinak nebude makro v tabulce fungovat.
+
+##### Obnova datového zdroje
+V případě, že se vám povede smazat list WEB s připojeným datovým zdrojem, je nutno jej na list znovu přidat.
+Pro zjednodušení v makru existuje procedura Inicializace_zdroje(), která si list vytvoří a zdroj připojí
+Není svázaná s žádným tlačítkem a je nutno ji spustit ručně z modulu Inicializace
+
 
 <p align="right">(<a href="#top">nahoru</a>)</p>
 
